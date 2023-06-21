@@ -8,10 +8,12 @@ This is a simple weather website built using React. It allows users to search fo
 - **Extra information about the weather**: In each day it shows information about the humidity, cloudiness chance, pressure, sea level, wind speed and the temperature feels like. 
 
 # API
-**GeoDB Cities**
-by Michael Mogely
+**GeoDB Cities** by Michael Mogely
+
 https://rapidapi.com/wirefreethought/api/geodb-cities
+
 **Open Weather**
+
 https://openweathermap.org
 
 # Screenshot of Project
