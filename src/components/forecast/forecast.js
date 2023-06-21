@@ -58,7 +58,7 @@ const Forecast = ({ data }) => {
                   <label>{item.main.feels_like}°C </label>
                 </div>
                 <div className="daily-details-grid-item">
-                  <label>Clouds</label>
+                  <label>Cloudiness</label>
                   <label>{item.clouds.all}%</label>
                 </div>
                 <div className="daily-details-grid-item">
