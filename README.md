@@ -1,5 +1,5 @@
 # Weather Website
-This is a simple weather website built using React. It allows users to search for a country and view the current weather information as well as a weekly weather forecast.
+This is a simple weather website built using React. It allows users to search for a city and view the current weather information as well as a weekly weather forecast.
 
 # Features
 - **Autocomplete search bar**: Users can type in the name of a city and gets suggestion as they type.
